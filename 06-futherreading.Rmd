@@ -269,3 +269,11 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+## How FAIR are plant sciences in the twenty-first century? The pressing need for reproducibility in plant ecology and evolution
+
+The paper states that the 21st century is the century of data science. It then proceeds to place emphasis on why plant ecological and evolutionary studies must acknowledge how important specimens are as primary data. Herbarium specimens are often neglected during collection, by authors. The collection and availability to the public of specimens is crucial because if only data was accessible, meta-analyses errors may occur due to there being no specimen revisits and verifications. In doing so, the FAIR principles are obeyed and as a result, original data can be used in reproducible research to further education. The paper also touches on why specimen preservation is now a rare practice. It is because of lack of training and shifts towards more modern practices.
+
+Link: https://doi.org/10.1098/rspb.2020.2597
+
+> Contributor: Naval
